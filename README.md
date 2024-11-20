@@ -1,7 +1,7 @@
 # aurora_disaster_recovery
 cross account and cross region disaster recovery using aws backup
 
-Follow steps to deploy: 
+Follow steps to deploy: https://dev.to/sudo_anuj/global-disaster-recovery-for-aws-aurora-2ih8
 
 
 MIT License
